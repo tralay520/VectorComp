@@ -1,0 +1,20 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Libraries
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+
+# Build directories
+build/
+cmake-build*/
