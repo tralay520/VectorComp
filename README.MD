@@ -1,5 +1,5 @@
-Vectorcomp V6
-Vectorcomp V6 is a semantic KV‑cache compression system designed to reduce memory footprint while increasing effective long‑term memory capacity for transformer models. It uses a hybrid LTM/STM architecture with centroid drift, strict reuse, and eviction‑safe sliding‑window behavior.
+Vectorcomp V7
+Vectorcomp V7is a semantic KV‑cache compression system designed to reduce memory footprint while increasing effective long‑term memory capacity for transformer models. It uses a hybrid LTM/STM architecture with centroid drift, strict reuse, and eviction‑safe sliding‑window behavior.
 
 Features
 Lossless STM round‑trip
